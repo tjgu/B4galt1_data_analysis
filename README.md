@@ -50,7 +50,7 @@ source("mk_velocyto.R")
 ```
 Expected runtime: ~30–90 min.
 
-Trajectory (optional): requires objects created in velocity step, then:
+Trajectory (optional): use the combined object from main script, then:
 ```r
 source("trajectory.R")
 ```
