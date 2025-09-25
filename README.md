@@ -34,7 +34,7 @@ BiocManager::install("monocle3")
 Typical install time: 10–30 min on a normal desktop.
 
 ## 3) Demo
-A minimal 10x‑style dataset is provided under `datay/`.
+A minimal 10x‑style dataset is provided under `data/`.
 
 Run main analysis:
 ```r
