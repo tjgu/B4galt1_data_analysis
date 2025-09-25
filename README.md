@@ -44,7 +44,7 @@ Outputs are written into an auto‑named folder (starts with the sample list and
 
 Expected runtime: 60–120 min for the main Rmd on a normal desktop.
 
-RNA velocity (optional): adjust paths inside `mk_velocyto.R` to your loom files and combined object, then:
+RNA velocity (optional): adjust paths inside `mk_velocyto.R` to your loom files (velo folder) and combined object, then:
 ```r
 source("mk_velocyto.R")
 ```
